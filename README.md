@@ -4,3 +4,4 @@ The file "AI class final" contain my reflection, and overview.
 
 The Excel file contain each of my cases and reflection for each.
 
+LLM used was Microsoft copilot
